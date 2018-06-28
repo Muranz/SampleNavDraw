@@ -1,0 +1,54 @@
+[{
+  "id": 1,
+  "grade": "II",
+  "name": "Math",
+  "imageSrc": "~/quiz/content/images/math.jpg",
+  "topics": [{
+				"id": 1,
+				"name":"Addition"
+			},
+			{
+				"id": 2,
+				"name":"Subtraction"
+			},
+			{
+				"id": 3,
+				"name": "Tables"
+			}]
+},
+{
+  "id": 2,
+  "grade": "II",
+  "name": "English",
+  "imageSrc": "~/quiz/content/images/english.jpg",
+  "topics": [{
+				"id": 1,
+				"name":"Noun"
+			},
+			{
+				"id": 2,
+				"name":	"Verb"
+			},
+			{
+				"id": 3,
+				"name":	"Adjectives"
+			}]
+},
+{
+  "id": 3,
+  "grade": "II",
+  "name": "Science",
+  "imageSrc": "~/quiz/content/images/science.jpg",
+  "topics": [{
+				"id": 1,
+				"name":"Body"
+			},
+			{
+				"id": 2,
+				"name":	"Food"
+			},
+			{
+				"id": 3,
+				"name":	"House"
+			}]
+}]

@@ -1,0 +1,1 @@
+D:\Muhil\Projects\NativeScript\SampleNavDraw\platforms\android\app/src/main/assets/metadata
